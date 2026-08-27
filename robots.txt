@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://yo918.github.io/sakina/sitemap.xml
